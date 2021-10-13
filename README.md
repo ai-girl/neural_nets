@@ -11,4 +11,6 @@
 | CS231-Assignment-2 | [Fullconnectednet(FC-net)](https://nbviewer.jupyter.org/github/NasreenAhmed/neural_nets/blob/main/CS231/assginment_2/FullyConnectedNets.ipynb)|
 | CS231-Assignment-2 | [BatchNormalization](https://nbviewer.jupyter.org/github/NasreenAhmed/neural_nets/blob/main/CS231/assginment_2/BatchNormalization.ipynb)|
 | CS231-Assignment-2 | [Dropout](https://nbviewer.jupyter.org/github/NasreenAhmed/neural_nets/blob/main/CS231/assginment_2/Dropout.ipynb)|
+| CS231-Assignment-3 | [RNN-captioning](https://nbviewer.org/github/NasreenAhmed/neural_nets/blob/main/CS231/assignment_3/RNN_Captioning.ipynb)|
+| CS231-Assignment-3 | [LSTM-captionming](https://nbviewer.org/github/NasreenAhmed/neural_nets/blob/main/CS231/assignment_3/LSTM_Captioning.ipynb)|
 
